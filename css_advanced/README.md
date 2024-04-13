@@ -10,7 +10,6 @@
 ---
 
 ![image1](./images/image1.jpg)
-![image2](./images/image2.jpg)
 
 ## General topics covered in this repo 
 - What is CSS
