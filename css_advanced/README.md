@@ -1,6 +1,6 @@
 <h1 align="center">CSS, advanced</h1>
 
-## Concepts
+## Concepts 📌 
 
 *For this project, here are some concepts to look at :*
 - [Some pointers about CSS](https://intranet.hbtn.io/concepts/840)
@@ -10,7 +10,7 @@
 ---
 
 ## Resources
-Read or watch:
+Read or watch 👁️
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 * [Inline Styles in HTML](https://www.codecademy.com/article/html-inline-styles)
 * [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
@@ -68,7 +68,6 @@ Based on the `Figma` file, add the correct styling to the FAQ `section`
 ### [7. Footer](./styles.css)
 Based on the `Figma` file, add the correct styling to the `footer`
 
-
 ### [8. Make it live!]()
 Yes, you made it!
 
@@ -78,8 +77,13 @@ It’s time to deploy it in Github, by using [Github Pages](https://pages.github
 
 ---
 
-## Author 🙎‍♂️
+### MIT License
+
+
+### Author 🙎‍♂️
 - **Sabrina Papeau** - [Holbiwan](https://github.com/Holbiwan) :octocat:
+
+
 
 
 
