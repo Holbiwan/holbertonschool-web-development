@@ -2,7 +2,7 @@
 
 ## Concepts
 
-*For this project, we expect you to look at these concepts:*
+*For this project, here are some concepts to look at :*
 - [Some pointers about CSS](https://intranet.hbtn.io/concepts/840)
 - [CSS fundamentals](https://intranet.hbtn.io/concepts/841)
 - [CSS advanced](https://intranet.hbtn.io/concepts/847)
@@ -11,14 +11,14 @@
 
 ![image1](./images/image1.jpg)
 
-## General topics covered in this repo 
-- What is CSS
-- How to add style to an element
-- What is a class
-- What is a selector
-- How to compute CSS Specificity Value
-- What are Box properties in CSS
-- How does the browser load a webpage
+## General topics covered in this repo :
+- What is CSS ?
+- How to add style to an element ,
+- What is a class ?
+- What is a selector ?
+- How to compute CSS Specificity Value ?
+- What are Box properties in CSS ?
+- How does the browser load a webpage ?
 
 ---
 
