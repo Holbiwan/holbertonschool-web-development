@@ -22,7 +22,7 @@ Read or watch:
 
 ![image1](./images/image1.jpg)
 
-## General topics covered in this repo :
+## General topics covered in this repo 🎯 :
 - What is CSS ?
 - How to add style to an element ?
 - What is a class ?
@@ -33,7 +33,7 @@ Read or watch:
 
 ---
 
-## Tasks
+## Tasks 👩‍💻 
 ### [0. README and objectives!](./README.md)
 This project is following the HTML, advanced project - We will focus on the CSS and the style of the page.  
 This designer file will be available on [Figma](https://www.figma.com/files/recent?fuid=1111140545816856971)  
@@ -78,7 +78,7 @@ It’s time to deploy it in Github, by using [Github Pages](https://pages.github
 
 ---
 
-## Author
+## Author 🙎‍♂️
 - **Sabrina Papeau** - [Holbiwan](https://github.com/Holbiwan) :octocat:
 
 
