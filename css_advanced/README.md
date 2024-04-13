@@ -9,8 +9,8 @@
 
 ---
 
-## Resources
-Read or watch 👁️
+## Resources 👁️
+Read or watch 
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
 * [Inline Styles in HTML](https://www.codecademy.com/article/html-inline-styles)
 * [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
