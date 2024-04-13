@@ -2,10 +2,10 @@
 
 ## Concepts 📌 
 
-*For this project, here are some concepts to look at :*
-- [Some pointers about CSS](https://intranet.hbtn.io/concepts/840)
-- [CSS fundamentals](https://intranet.hbtn.io/concepts/841)
-- [CSS advanced](https://intranet.hbtn.io/concepts/847)
+*For this project, we will focus on these concepts :*
+- Some pointers about CSS
+- CSS fundamentals
+- CSS advanced
 
 ---
 
