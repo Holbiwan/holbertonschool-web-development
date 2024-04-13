@@ -9,11 +9,22 @@
 
 ---
 
+## Resources
+Read or watch:
+* [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+* [Inline Styles in HTML](https://www.codecademy.com/article/html-inline-styles)
+* [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
+* [CSS SpeciFishity](http://www.standardista.com/cgi-sys/suspendedpage.cgi)
+* [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+* [MDN](https://developer.mozilla.org/en-US/)
+
+---
+
 ![image1](./images/image1.jpg)
 
 ## General topics covered in this repo :
 - What is CSS ?
-- How to add style to an element ,
+- How to add style to an element ?
 - What is a class ?
 - What is a selector ?
 - How to compute CSS Specificity Value ?
